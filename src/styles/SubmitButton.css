@@ -1,0 +1,10 @@
+.submit-btn {
+    background-color: hsl(0, 94%, 50%);
+    color: #fff;
+    padding: 10px 15px;
+    border: green;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
